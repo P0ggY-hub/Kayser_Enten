@@ -6,7 +6,7 @@ Garantiert nicht von KI erstellt!
 ## 1. Küken-Entchen 🐥
 - Farbe: Gelb mit orangem Schnabel
 - Besonderheit: Macht manchmal laut "ga ga", wenn niemand hinhört
-- Ideal für: Mallorca-Fans mit Abneigung für kleine Kinder
+- Ideal für: Federfreunde & Co. KG
 
 ## 2. Schaf-Entchen 🐑
 - Farbe: Weiß mit flauschiger Textur
@@ -61,7 +61,7 @@ Garantiert nicht von KI erstellt!
 ## 12. Hai-Entchen 🦈
 - Farbe: Grau mit spitzen Zähnen
 - Besonderheit: Finne auf dem Kopf
-- Ideal für: Heitere Gesellen
+- Ideal für: Die Tornadoforschung
 ---
 
 *Hinweis:* Alle Quietscheenten sind aus ungiftigem, wasserfestem Material gefertigt.
