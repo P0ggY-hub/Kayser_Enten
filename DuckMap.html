@@ -14,7 +14,12 @@
 		#map { 
 			width: 100vw;
 			height: 100vh;
-			}
+		}
+		.popup-name {
+			font-size: 1.1rem;
+			font-weight: bold;
+			margin-bottom: 4px;
+		}
 	</style>
 	
 </head>
@@ -34,23 +39,43 @@
 		const ententeich = {
 			schaf: {
 				coords: [49.862930, 8.646315],
-				name: "Schaf-Ente",
+				name: "Schaf-Ente 🐑",
+				text:` 
+					<b>Farbe:</b> Weiß mit flauschiger Textur<br>
+					<b>Besonderheit:</b> Besonders flauschig<br>
+					<b>Ideal für:</b> Kuschelige Bäder und Tierliebhaber<br>`,
 				fandungsfoto: L.icon({
 					iconUrl: './Enten/Sheep.png',
 					iconSize: [100, 100],
 					iconAnchor: [50, 50],
 					popupAnchor: [0, -100]
-				})
+				}),
+				get popupText() {
+					return `
+						<div class="popup-name">${this.name}</div>
+						${this.text}
+					`;
+				}
 			},
 			huehnchen: {
 				coords: [49.870936, 8.852022],
-				name: "Hühnchen-Ente",
+				name: "Hühnchen-Ente 🐥",
+				text:` 
+					<b>Farbe:</b> Gelb mit orangem Schnabel<br>
+					<b>Besonderheit:</b> Macht manchmal laut "ga ga", wenn niemand hinhört<br>
+					<b>Ideal für:</b> Mallorca-Fans mit Abneigung für kleine Kinder<br>`,
 				fandungsfoto: L.icon({
 					iconUrl: './Enten/Chick.png',
 					iconSize: [100, 100],
 					iconAnchor: [50, 50],
 					popupAnchor: [0, -100]
-				})
+				}),
+				get popupText() {
+					return `
+						<div class="popup-name">${this.name}</div>
+						${this.text}
+					`;
+				}
 			}
 		};
 
@@ -63,7 +88,7 @@
 				icon: ente.fandungsfoto
 			})
 			.addTo(map)
-			.bindPopup(`<b>${ente.name}</b>`)
+			.bindPopup(ente.popupText)
 		}
 		window.addEventListener('resize', () => {
 				map.invalidateSize();
