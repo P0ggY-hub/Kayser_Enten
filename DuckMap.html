@@ -57,7 +57,47 @@
 					`;
 				}
 			},
-			huehnchen: {
+			chick: {
+				coords: [49.914724, 8.648957],
+				name: "Küken-Entchen 🐥",
+				text:` 
+					<b>Farbe:</b> Gelb mit orangem Schnabel<br>
+					<b>Besonderheit:</b> Macht manchmal laut "ga ga", wenn niemand hinhört<br>
+					<b>Ideal für:</b> Federfreunde & Co. KG<br>`,
+				fandungsfoto: L.icon({
+					iconUrl: './Enten/Chick.png',
+					iconSize: [100, 100],
+					iconAnchor: [50, 50],
+					popupAnchor: [0, -100]
+				}),
+				get popupText() {
+					return `
+						<div class="popup-name">${this.name}</div>
+						${this.text}
+					`;
+				}
+			},
+			batman: {
+				coords: [49.859517, 8.666577],
+				name: "Fledermaus-Entchen 🦇",
+				text:` 
+					<b>Farbe:</b> Schwarz mit lustigen Öhrchen<br>
+					<b>Besonderheit:</b> Flattert lustig im Wasser<br>
+					<b>Ideal für:</b> Batman, kennt den jemand?<br>`,
+				fandungsfoto: L.icon({
+					iconUrl: './Enten/Bat.png',
+					iconSize: [100, 100],
+					iconAnchor: [50, 50],
+					popupAnchor: [0, -100]
+				}),
+				get popupText() {
+					return `
+						<div class="popup-name">${this.name}</div>
+						${this.text}
+					`;
+				}
+			},
+			hai: {
 				coords: [49.870985, 8.851762],
 				name: "Hai-Ente 🦈",
 				text:` 
