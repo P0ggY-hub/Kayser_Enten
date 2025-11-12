@@ -49,9 +49,9 @@ Garantiert nicht von KI erstellt!
 - Ideal für: Prinzessinen, kennt jemand eine?
 
 ## 10. Widder-Entchen 🐏
-- Farbe: Rosa mit Stern auf der Stirn (was zur Hölle?)
+- Farbe: Rosa mit Stern auf der Stirn 
 - Besonderheit: Fancy Wimpern und Sternzeichen-Symbol
-- Ideal für: Horoskop-Freaks?
+- Ideal für: Märzkinder
 
 ## 11. Krabben-Entchen 🦀
 - Farbe: Rot mit kleinen Scheren
