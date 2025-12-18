@@ -62,6 +62,11 @@ Garantiert nicht von KI erstellt!
 - Farbe: Grau mit spitzen Zähnen
 - Besonderheit: Finne auf dem Kopf
 - Ideal für: Die Tornadoforschung
+
+## 13. Elefanten-Entchen 🐘
+- Farbe: Grau mit großen Ohren
+- Besonderheit: Muss regelmäßig trinken
+- Ideal für: Populationskontrolle von Mäusen
 ---
 
 *Hinweis:* Alle Quietscheenten sind aus ungiftigem, wasserfestem Material gefertigt.

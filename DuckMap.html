@@ -136,6 +136,26 @@
 						${this.text}
 					`;
 				}
+			},
+			elefant: {
+				coords: [49.860782, 8.663618],
+				name: "Elefanten-Ente 🐘",
+				text:` 
+					<b>Farbe:</b> Grau mit großen Ohren<br>
+					<b>Besonderheit:</b> Muss regelmäßig trinken<br>
+					<b>Ideal für:</b> Populationskontrolle von Mäusen<br>`,
+				fandungsfoto: L.icon({
+					iconUrl: './Enten/Elephant.png',
+					iconSize: [100, 100],
+					iconAnchor: [50, 50],
+					popupAnchor: [0, -100]
+				}),
+				get popupText() {
+					return `
+						<div class="popup-name">${this.name}</div>
+						${this.text}
+					`;
+				}
 			}
 		};
 
