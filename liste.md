@@ -41,7 +41,7 @@ Garantiert nicht von KI erstellt!
 ## 8. Katzen-Entchen 🐱🟧
 - Farbe: Orange mit weißem Bauch
 - Besonderheit: Miaut beim Quietschen
-- Ideal für: Katzenfans
+- Ideal für: Holländische Katzenfans
 
 ## 9. Frosch-Entchen 🐸
 - Farbe: Grün mit rosa Wangen
@@ -67,6 +67,37 @@ Garantiert nicht von KI erstellt!
 - Farbe: Grau mit großen Ohren
 - Besonderheit: Muss regelmäßig trinken
 - Ideal für: Populationskontrolle von Mäusen
+
+## 14. Studente 🎓
+- Farbe: Weiß mit coolem Podest
+- Besonderheit: Trängt stylischen Absolventenhut
+- Ideal für: Überlebende der TUDA
+
+## 15. Nemo-Entchen 🐠
+- Farbe: Wie Nemo eben
+- Besonderheit: Verkleidet sich an Halloween als Hai
+- Ideal für: Zahnärzte, Kieferorthopäden und -chirurgen
+
+## 16. Grundschul-Entchen 🏫
+- Farbe: Knallbunt
+- Besonderheit: Hat ne fette Tüte dabei
+- Ideal für: Motivation für den akademischen Einstieg
+
+## 17. Vogel-Entchen 🐦
+- Farbe: Twitterfarben
+- Besonderheit: Kann sich in ein X verwandeln
+- Ideal für: Schräge Vögel
+
+## 18. Pinguin-Entchen 🐧
+- Farbe: Linux
+- Besonderheit: Isst gerne Fischstäbchen
+- Ideal für: Kapitalismus, Schweinesystem, Vietcong
+
+## 19. Hasen-Entchen 🐰
+- Farbe: Schneeweiß
+- Besonderheit: Mit Hasi stimmt alles
+- Ideal für: Was auf die Löffel geben
+
 ---
 
 *Hinweis:* Alle Quietscheenten sind aus ungiftigem, wasserfestem Material gefertigt.
