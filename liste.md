@@ -93,11 +93,14 @@ Garantiert nicht von KI erstellt!
 - Besonderheit: Isst gerne Fischstäbchen
 - Ideal für: Kapitalismus, Schweinesystem, Vietcong
 
+<<<<<<< HEAD
 ## 19. Hasen-Entchen 🐰
 - Farbe: Schneeweiß
 - Besonderheit: Mit Hasi stimmt alles
 - Ideal für: Was auf die Löffel geben
 
+=======
+>>>>>>> origin/main
 ---
 
 *Hinweis:* Alle Quietscheenten sind aus ungiftigem, wasserfestem Material gefertigt.
